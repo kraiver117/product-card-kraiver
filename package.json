@@ -7,6 +7,11 @@
     "dist",
     "src"
   ],
+  "repository": {
+    "url": "https://github.com/kraiver117/product-card-kraiver",
+    "type": "git"
+  },
+  "homepage": "https://angel-gutierrez-portfolio.netlify.app/",
   "engines": {
     "node": ">=10"
   },
@@ -63,5 +68,11 @@
   },
   "dependencies": {
     "@rollup/plugin-replace": "^3.0.1"
-  }
+  },
+  "keywords": [
+    "product",
+    "card",
+    "angel",
+    "gutierrez"
+  ]
 }
